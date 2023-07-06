@@ -1,4 +1,4 @@
-package macInfo
+package macinfo
 
 import (
 	"bytes"
